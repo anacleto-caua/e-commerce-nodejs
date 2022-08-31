@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/anacleto-caua/e-commerce-nodejs#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "bootstrap": "^5.2.0",
+    "express": "^4.18.1",
+    "jquery": "^3.6.1"
   }
 }
